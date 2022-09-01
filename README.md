@@ -1,3 +1,6 @@
+#"Other Resources"
+https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
+
 # Flight rules for Git
 
 🌍
